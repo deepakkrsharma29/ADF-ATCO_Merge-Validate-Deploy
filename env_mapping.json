@@ -1,0 +1,4 @@
+{
+"my_dev_key_vault": "my_prod_key_vault",
+"my_dev_blob_storage": "my_prod_blob_storage"
+}
